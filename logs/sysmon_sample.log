@@ -1,0 +1,3 @@
+2025-08-12 ProcessCreate powershell.exe -EncodedCommand suspicious_payload
+2025-08-12 ProcessCreate cmd.exe /c whoami
+2025-08-12 FileCreate C:\Temp\unknown.exe
