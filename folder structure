@@ -1,0 +1,15 @@
+blue-shield-soc-log-analysis/
+│
+├── logs/
+│   ├── sysmon_sample.log
+│   ├── zeek_sample.log
+│   └── suricata_sample.log
+│
+├── scripts/
+│   └── detect_attacks.py
+│
+├── dashboards/
+│   └── kibana_dashboard_sample.json
+│
+├── README.md
+└── requirements.txt
