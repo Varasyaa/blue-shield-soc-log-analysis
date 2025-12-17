@@ -1,0 +1,10 @@
+{
+  "dashboard": {
+    "title": "Blue-Shield SOC Dashboard",
+    "panels": [
+      "Total Alerts",
+      "Suspicious Processes",
+      "Network Attacks"
+    ]
+  }
+}
